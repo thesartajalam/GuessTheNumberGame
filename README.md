@@ -4,7 +4,7 @@ Absolutely! Below is your `README.md` written **in the exact same format and sty
 
 ---
 
-```md
+
 # 🎯 GuessTheNumberGame - A Fun Number Guessing App
 
 **GuessTheNumberGame** is a simple yet engaging number guessing game built with **React Native (Expo)**. It lets users guess a number between 1 and 100, while the app provides intuitive feedback and transitions. The design is polished with gradients and custom fonts to make it visually appealing and interactive! 🔢✨
@@ -40,7 +40,7 @@ Absolutely! Below is your `README.md` written **in the exact same format and sty
 ```sh
 git clone https://github.com/thesartajalam/GuessTheNumberGame.git  
 cd GuessTheNumberGame  
-```
+
 
 ### 2️⃣ **Install Dependencies**
 
