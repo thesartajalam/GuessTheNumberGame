@@ -1,8 +1,5 @@
 # GuessTheNumberGame
 
-Absolutely! Below is your `README.md` written **in the exact same format and style** as the **HangOut Hub** one — just for your **GuessTheNumberGame** app.
-
----
 
 
 # 🎯 GuessTheNumberGame - A Fun Number Guessing App
