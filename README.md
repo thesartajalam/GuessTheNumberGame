@@ -71,19 +71,16 @@ eas build -p android --profile preview
 
 ### **1. Start Game Screen**
 Let the user input a number to start the guessing game.
-![StartGameScreen](https://your-image-link.com/start-game-screen.png)
 
 ---
 
 ### **2. Game Screen**
 The app makes a guess and user tells if it’s higher or lower.
-![GameScreen](https://your-image-link.com/game-screen.png)
 
 ---
 
 ### **3. Game Over Screen**
 Shows how many rounds the app took and gives a restart option.
-![GameOverScreen](https://your-image-link.com/game-over-screen.png)
 
 ---
 
