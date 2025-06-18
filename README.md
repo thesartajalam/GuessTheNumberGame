@@ -143,14 +143,3 @@ This project was created as part of my learning journey in **React Native App De
 
 **GuessTheNumberGame** is a fun way to demonstrate key React Native concepts like UI design, state management, and conditional rendering. Give it a try and enjoy guessing! 🎮📱  
 ```
-
----
-
-### ✅ Instructions:
-
-- Replace the image URLs in `![Image](https://your-image-link.com/...)` with real hosted screenshot links from GitHub or any image hosting service (like Imgur).
-- Paste this entire markdown into your `README.md` file on GitHub.
-
-You’ll get **the same structure, emojis, formatting, and style** like the HangOut Hub example.
-
-Let me know if you want me to help you generate screenshot image URLs too.
